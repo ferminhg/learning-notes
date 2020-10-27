@@ -1,5 +1,15 @@
 # [Resilient Management](https://www.goodreads.com/book/show/45767533-resilient-management)
 
+<!-- TOC -->
+
+- [[Resilient Management](https://www.goodreads.com/book/show/45767533-resilient-management)](#resilient-managementhttpswwwgoodreadscombookshow45767533-resilient-management)
+    - [Introduction](#introduction)
+        - [What's in this book](#whats-in-this-book)
+    - [Meet your team](#meet-your-team)
+    - [Resources](#resources)
+
+<!-- /TOC -->
+
 ## Introduction
 
 What makes a team?
