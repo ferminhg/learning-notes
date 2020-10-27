@@ -4,6 +4,8 @@
 
 - [[Resilient Management](https://www.goodreads.com/book/show/45767533-resilient-management)](#resilient-managementhttpswwwgoodreadscombookshow45767533-resilient-management)
     - [Introduction](#introduction)
+        - [What makes a team?](#what-makes-a-team)
+        - [Stages of group development](#stages-of-group-development)
         - [What's in this book](#whats-in-this-book)
     - [Meet your team](#meet-your-team)
     - [Resources](#resources)
@@ -12,29 +14,38 @@
 
 ## Introduction
 
-What makes a team?
+### What makes a team?
 
-A team is composed of at least two people (but, more typically, a handful of people) who share the same strategic objective.
+A team is composed of at least two people sharing the same strategic objective. There's no a silver bullet to define what makes a team.
 
-There’s no right or wrong way to define what makes a team.
+Glosary:
 
-- **Teammates**: a term I’ll use throughout the book as a catchall for the people you’re responsible for as a manager.
-- **Discipline**: the skill set you primarily use at work.
-- **Functional team**: a group of people who work in the same discipline.
-- **Feature team**: a group of people from different disciplines who work together on a specific feature or product.
+- Teammate: the people you're responsible for as a manager. (enviroment, feedback, performance, reporting, goals, aligment)
+- Discipline: the skill set you primarily use at work.
+- Functional team: a group of people who work in the same discipline.
+- Feature team: a group of people from differente disciplines who work together on a specific feature or product.
 
-As manager might have direct reports spread across feature teams. This structure can cause issues when that manager doesn’t have shared context about all their reports’ projects or priorities, because they’re responsible for a different team’s strategic objectives, and it’s tough to keep all that information in one person’s brain
+Issues when we have a team structure where a manager have direct reports spread across feature teams:
 
-Teams are the atomic units of any organization, regardless of how it’s been organized; each team’s health contributes to the organization’s overall health. As a manager, you must be able to assess and improve your team’s dynamic—from understanding the individuals that make up the team, to defining the team’s operations and strategy, to diagnosing any friction or ambiguity standing between your team and a healthy state.
+- the manager doesn't have shared context about all their reports' projects.
+- different team's strategic objectives
 
-These are the four stages a group goes through as it evolves from a bunch of strangers to a unified collective with common goals:
+Teams are the atomic unit of any organization. As a manager:
 
-Forming is when the group comes together in its new state.
-Storming is where you start to see some friction.
-Norming is where things start to iron themselves out.
-Performing is that coveted flow state.
+- you must be able to assess and improve dynamic
+- defining operations and strategy
+- diagnosing any friciton or ambiguity standing
 
-These stages will repeat throughout the lifecycle of a team, even if you’ve been together for years. When a new person joins, or a manager changes, or the mission changes, these stages of group development can restart with those Forming stage feelings again.
+### Stages of group development
+
+Tuckman's stages of group development:
+
+- Forming: setting the stage
+- Storming: resolving conflict and tension
+- Norming: successfully implementing and sustaining projects
+- Performing: expanding initiative and integrating new members
+
+These stage will repleat throughout the lifecycle of the team and can restart when sth changes (people, manager, mission).
 
 ### What's in this book
 
@@ -46,4 +57,4 @@ wopwop
 
 ## Resources
 
-* [Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman's_stages_of_group_development)
+- [Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman's_stages_of_group_development)
