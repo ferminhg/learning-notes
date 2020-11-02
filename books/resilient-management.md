@@ -34,7 +34,7 @@ Teams are the atomic unit of any organization. As a manager:
 
 - you must be able to assess and improve dynamic
 - defining operations and strategy
-- diagnosing any friciton or ambiguity standing
+- diagnosing any friciton or ambiguity standin
 
 ### Stages of group development
 
