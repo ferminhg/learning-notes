@@ -3,7 +3,7 @@
 Continuación de la anterior charla en la CTO Summit: [Deliverities aguda](https://www.youtube.com/watch?v=vGCowJY5QCQ)
 
 ¿Cual es el objetivo de un CTO?
-Ganar dinero con el delivery y la redución de costes: DELIVERY & COST
+**Ganar** dinero con el delivery y la redución de costes: DELIVERY & COST
 
 ### 9. TOXIC PEOPLE: OUT
 
